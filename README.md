@@ -1,4 +1,4 @@
-## Hi there 👋, Myself Jit Kumar Ghosh
+
 
 I am an aspiring **Frontend Developer**, who loves to code and develop full-stack web applications which can solve real world problems. Currently I am pursuing my BTech from BP Poddar Institute of Management and Technology in Electronics and Communication.
 I am always trying to grow and is curious to learn about new technologies !!
