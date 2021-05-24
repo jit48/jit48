@@ -18,8 +18,8 @@ I am always trying to grow and is curious to learn about new technologies !!
 - Among top 15 teams who got selected after Ideation Phase in Interapt Hackathon organized by Hackerearth
 
 ## :telephone_receiver: Get in touch 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jit-kumar-ghosh)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jitkumarghosh28@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jit-kumar-ghosh/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitkumarghosh28@gmail.com)
 
 ## :pushpin: Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jit48&repo=eventManagement)](https://github.com/jit48/eventManagement)
